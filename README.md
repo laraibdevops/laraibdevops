@@ -1,232 +1,123 @@
-# 👤 Laraib Ahmad Siddiqui
-
-## 🤖 AI Trainer | Agent Evaluation Specialist  
-### 🔬 RLHF, Multimodal & Tool-Based Systems
-
+# 👤 LARAIB AHMAD SIDDIQUI
+**🤖 AI Trainer | 🧭 Agent Evaluation Specialist (RLHF & Multimodal Systems)**  
 📍 New Delhi, India  
-📧 [laraibdevops@gmail.com](mailto:laraibdevops@gmail.com)  
-📞 +91-9540880891  
+📧 laraibdevops@gmail.com | 📞 +91-9540880891  
 
 ---
 
 ## 🧠 PROFESSIONAL SUMMARY
 
-AI Trainer and Evaluation Specialist with extensive experience working on **large-scale language models, tool-using agents, coding agents, and multimodal AI systems**. Proven ability to deliver **high-fidelity training and evaluation data** used directly in production AI pipelines for enterprise clients including **Amazon, Google, Meta**, and leading AI research vendors through **Invisible Technologies, Outlier AI, Mindrift, and Rex.Zone**.
+AI Trainer and Agent Evaluation Specialist with 3+ years of hands-on experience delivering high-fidelity evaluation, preference ranking, and alignment data for large-scale language models and multimodal AI systems. Direct contributor to production AI pipelines for enterprise and frontier-model deployments via multiple confidential AI research vendors and data-labeling platforms.
 
-Expertise spans **Reinforcement Learning from Human Feedback (RLHF)**, **reward-model preference ranking**, **tool-agent trajectory evaluation (TAU)**, **multi-turn conversational alignment**, **code execution validation**, and **computer vision annotation & QA**. Known for identifying subtle hallucinations, policy violations, reasoning errors, and tool misuse that outcome-only metrics fail to capture.
+Expertise across **🔁 Reinforcement Learning from Human Feedback (RLHF)**, **🏆 reward-model training**, **🧭 tool-using agent (TAU) evaluation**, **💬 multi-turn reasoning alignment**, **💻 coding agent validation**, and **👁️ computer-vision QA**. Known for identifying **❌ hallucinations**, **📜 policy violations**, **🧠 reasoning breakdowns**, and **🛠️ tool-misuse failures** that evade automated metrics.
 
 ---
 
-## 🧩 CORE AREAS OF EXPERTISE
+## 🧩 CORE SKILLS
 
 - 🔁 Reinforcement Learning from Human Feedback (RLHF)
-- 🏆 Reward Model & Preference Ranking
-- 🧭 Tool–Agent–User (TAU) Evaluation Frameworks
+- 🏆 Preference Ranking & Reward-Model Evaluation
+- 🧭 Tool-Using Agents (TAU) & Trajectory Analysis
 - 💬 Multi-Turn Conversation Evaluation
-- 💻 Coding Agent Evaluation & Repo-Based Testing
+- 💻 Coding Agent & Repo-Based Validation
 - ❌ Hallucination Detection & Factuality QA
 - 📜 Policy-Constrained Agent Evaluation
-- 👁️ Computer Vision Annotation & QA
-- 🎥 Pose Estimation & Video Annotation
 - 🧠 Multimodal Evaluation (Text, Image, Audio, Video)
+- 👁️ Computer Vision Annotation & QA
 - 📐 Schema-Driven Annotation & Golden-Set Validation
 
 ---
 
 ## 🏢 PROFESSIONAL EXPERIENCE
 
+### 🔒 Confidential AI Research Vendor (via Global AI Services Firm)  
+**AI Trainer – LLM, Agent & Vision Evaluation** | 2023 – Present
+
+Delivered evaluation and alignment data across **🤖 LLM**, **🧭 agentic**, **💻 coding**, and **👁️ multimodal vision** pipelines used in production systems for enterprise-scale AI deployments.
+
+**Key Contributions & Impact**
+
+- **🔁 RLHF (3H Framework: Helpful, Honest, Harmless)**
+  - Evaluated outputs for factual accuracy, safety, and intent alignment  
+  - Authored structured preference rationales for reward-model training  
+  - 📉 Impact: Reduced hallucination frequency by ~40%
+
+- **💻 Coding & 💬 Multi-Turn Reasoning Evaluation**
+  - Executed and debugged AI-generated code for runtime correctness  
+  - Audited multi-turn reasoning drift and instruction-following failures  
+  - 📈 Impact: Improved code reliability by ~35%
+
+- **🏗️ Enterprise Coding Benchmarking (RFI / RFP Style)**
+  - Assessed architecture quality, scalability, maintainability, and security  
+  - Compared candidate outputs for production readiness  
+  - ⏱️ Impact: Reduced enterprise decision cycles by ~25%
+
+- **👁️ Computer Vision QA (Pose Estimation & Video)**
+  - Verified bounding boxes, keypoints, occlusions, and temporal tubelets  
+  - Ensured ≥32-frame continuity and strict schema compliance  
+  - 🎯 Impact: Increased dataset precision by ~30%
+
+- **🖼️ Vision Generation QA**
+  - Evaluated identity preservation, anatomical correctness, and artifacts  
+  - Applied strict pass/fail and failure taxonomy standards  
+  - 🚀 Impact: Improved vision dataset filtering accuracy by ~25%
+
 ---
 
-## 🧪 Invisible Technologies  
-**AI Trainer | LLM & Vision Evaluation Specialist**  
-📆 *2023 – Present*
+### 🧪 Confidential AI Training Platform  
+**AI Trainer – RLHF & Multimodal Evaluation** | 2024 – Present
 
-Worked across multiple high-impact enterprise AI projects involving LLM alignment, code generation evaluation, multimodal vision QA, and large-scale dataset validation.
-
----
-
-### 🟠 Amazon Phoenix — RLHF Evaluation (3H Framework)
-
-**Responsibilities**
-- Evaluated model outputs for **Honesty, Helpfulness, Harmlessness**
-- Flagged hallucinations, misleading claims, and safety risks
-- Ranked responses with structured preference rationales
-- Ensured alignment with user intent and policy constraints
+- 🧮 Evaluated step-by-step mathematical and logical reasoning chains  
+- ✍️ Authored and QA’d short-answer factual prompts  
+- 🔊 Performed audio–text semantic alignment evaluation  
+- ⚖️ Conducted pairwise side-by-side comparisons with code execution  
 
 **Impact**
-- 📉 Reduced hallucination frequency by **~40%**
-- 🛡️ Improved safety and reliability in production models
+- 📈 Reasoning accuracy improved by ~40%  
+- 🧩 Dataset quality improved by ~30%  
+- 🔗 Multimodal consistency improved by ~25%
 
 ---
 
-### 🔵 Google Gemini — Coding, Factuality & Multi-Turn Evaluation
+### 🧭 Confidential Agent Evaluation Platform  
+**AI Trainer – Agent & Reward-Model Evaluation** | 2024
 
-**Responsibilities**
-- Executed AI-generated code for runtime validation
-- Debugged logical and syntactic failures
-- Audited multi-turn reasoning and factual grounding
-- Identified instruction-following drift
+- Reviewed 🛠️ tool-call sequences and agent state transitions (TAU framework)  
+- Distinguished 🎯 outcome correctness vs ⚙️ process correctness  
+- Classified failures across Agent / User / System dimensions  
+- Evaluated 📜 policy-restricted domains (authentication, payments, refunds)  
+- Designed 💻 repo-based coding agent evaluation tasks  
 
 **Impact**
-- 📈 Improved code reliability by **~35%**
-- 🔄 Strengthened multi-turn reasoning consistency
+- 📊 Improved agent benchmarking fidelity  
+- 🔐 Reduced silent policy violations in tool-using agents
 
 ---
 
-### 🟣 Fika GenAI — RFI / RFP Coding Benchmarking
+### 🎥 Confidential Vision Annotation Vendor  
+**AI Data Annotator – Computer Vision** | 2024 – Present
 
-**Responsibilities**
-- Benchmarked enterprise-grade AI coding outputs
-- Assessed scalability, maintainability, and architecture
-- Compared outputs for production readiness
-
-**Impact**
-- ⏱️ Reduced decision cycles by **~25%**
-- 🏗️ Improved production suitability of shortlisted solutions
+- Annotated 🖼️ image and 🎞️ video datasets under strict schemas  
+- Performed frame-level labeling and QA for production CV datasets  
 
 ---
 
-### 🟢 Fornax Project — Pose Estimation & Dairy Farm Annotation QA
+## 📊 AGGREGATE IMPACT
 
-**Responsibilities**
-- Verified pose keypoints, bounding boxes, occlusions, tubelets
-- Ensured ≥32-frame continuity and temporal consistency
-- Audited sensitive classes using strict annotation guides
-- Coordinated with L2 QA and annotators via Slack
-
-**Impact**
-- 🎯 Increased dataset precision by **~30%**
-- 🐄 Improved motion tracking & behavior recognition accuracy
+- ❌ Hallucinations reduced by up to **40%**  
+- 🧠 Reasoning accuracy improved by **~40%**  
+- 💻 Code correctness improved by **~35%**  
+- 👁️ Vision dataset precision improved by **25–30%**  
+- 🚀 Delivered production-grade datasets for enterprise-scale AI systems  
 
 ---
 
-### 🟦 Meta Big Downselect — Vision QA (Client: Meta)
+## 🎯 ROLE ALIGNMENT
 
-**Responsibilities**
-- Compared generated images against reference images
-- Assessed anatomical correctness and artifact presence
-- Verified identity preservation and visual plausibility
-- Applied strict pass/fail and failure categorization
+Well suited for roles involving:
 
-**Impact**
-- 🖼️ Improved vision dataset filtering by **~25%**
-- 🚀 Strengthened generative image training datasets
-
----
-
-## 🧑‍🔬 Outlier AI  
-**AI Trainer | RLHF Specialist**  
-📆 *2024 – Present*
-
----
-
-### 📐 Kepler — Mathematical Reasoning RLHF
-- Evaluated step-by-step reasoning and derivations  
-**Impact:** +40% reasoning accuracy
-
----
-
-### 🧪 Gallon Hamster — Short-Answer Prompt Generation
-- Authored and QA’d concise factual prompts  
-**Impact:** +30% dataset quality
-
----
-
-### 🔊 Xylophone Grassland — Audio & Multimodal Evaluation
-- Evaluated text-to-audio semantic alignment  
-**Impact:** +25% multimodal consistency
-
----
-
-### 🧮 Psychic Kadabra — SFT Math Prompt Alignment
-- Authored instructional math prompts  
-**Impact:** +35% clarity & reasoning structure
-
----
-
-### ⚖️ Project P — Pairwise Side-by-Side Evaluation
-- Conducted comparative evaluations with code execution  
-**Impact:** +30% preference-model accuracy
-
----
-
-## 🧠 Mindrift  
-**AI Trainer | Agent, Conversation & Reward Model Evaluator**  
-📆 *2024*
-
----
-
-### 🧭 TAU Evaluation — Agent Trajectory Analysis
-- Reviewed tool-call sequences and state mutations
-- Distinguished outcome correctness vs process correctness
-- Classified faults (Agent / User / Technical)
-
-**Impact**
-- 📊 Improved agent benchmarking fidelity
-
----
-
-### 🍔 Food Delivery Agent — Policy-Constrained Domain
-- Evaluated authentication, payments, refunds, tier rules
-- Ensured policy-compliant tool usage under pressure
-
-**Impact**
-- 🔐 Reduced silent policy violations
-
----
-
-### 🧑‍💻 Project A — Virtual Company (Coding Agent Evaluation)
-- Designed Jira-style repo tasks
-- Validated code changes with tests and docs
-
-**Impact**
-- 🏭 Enabled production-like coding agent benchmarking
-
----
-
-### 💬 Interactive Preferences — Multi-Turn Conversations
-- Generated 4–10 turn conversations
-- Applied root-cause hierarchy for scoring
-
-**Impact**
-- 🎯 Improved long-horizon conversational alignment
-
----
-
-### 🍑 Apricot — Preference Ranking
-- Side-by-side reward model evaluation  
-**Impact:** +30% reward-model reliability
-
----
-
-## 🎥 Rex.Zone (RemoExpert)  
-**AI Data Annotator (Vision)**  
-📆 *2024 – Present*
-
-- Annotated image/video datasets under strict schemas
-- Performed frame-level labeling and QA
-
-**Impact**
-- 📦 Delivered production-grade CV datasets
-
----
-
-## 📊 OVERALL IMPACT
-
-- ❌ Hallucinations reduced by **up to 40%**
-- 🧠 Reasoning accuracy improved by **~40%**
-- 💻 Code correctness improved by **~35%**
-- 👁️ Vision dataset precision improved by **25–30%**
-- 🚀 Delivered datasets for **Amazon, Google, Meta**
-
----
-
-## 🎯 POSITIONING
-
-Best suited for roles involving:
-
-- 🤖 LLM & Agent Evaluation
-- 🔁 RLHF & Reward Model Design
-- 🧭 Tool-Using Agents & Reliability
-- 🧠 Multimodal Dataset QA
+- 🤖 LLM & Agent Evaluation  
+- 🔁 RLHF & Reward-Model Training  
+- 🧭 Tool-Using Agent Reliability  
+- 🧠 Multimodal Dataset QA  
 - 🛡️ AI Safety, Alignment & Benchmarking
